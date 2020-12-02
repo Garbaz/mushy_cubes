@@ -1,0 +1,5 @@
+Page 10 in exercise material: 
+<<<    t_i += M_i * v_i^l 
+>>>    t_i  = M_i * v_i^l 
+
+
